@@ -6,18 +6,25 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 4 |
+| 4 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (2)
 - [math](#math) (1)
 - [strings](#strings) (1)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2256A | [Three Numbers on the Blackboard](https://codeforces.com/contest/2256/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2256/A%20-%20Three%20Numbers%20on%20the%20Blackboard/solution.cpp) |
 
 ### greedy
 
