@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 5 |
+| 5 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (1)
-- [greedy](#greedy) (1)
-- [implementation](#implementation) (2)
+- [greedy](#greedy) (2)
+- [implementation](#implementation) (3)
 - [math](#math) (1)
-- [strings](#strings) (1)
+- [sortings](#sortings) (1)
+- [strings](#strings) (2)
 
 ---
 
@@ -31,6 +32,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### implementation
 
@@ -38,6 +40,7 @@
 |---|---------|------------|----------|
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ### math
 
@@ -45,11 +48,18 @@
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 
+### sortings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
+
 ### strings
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 281A | [Word Capitalization](https://codeforces.com/contest/281/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/281/A%20-%20Word%20Capitalization/solution.cpp) |
+| 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 
 ---
 
