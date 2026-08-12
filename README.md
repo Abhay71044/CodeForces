@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 10 | 6 |
+| 11 | 6 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (1)
 - [greedy](#greedy) (2)
 - [implementation](#implementation) (8)
-- [math](#math) (1)
+- [math](#math) (2)
 - [sortings](#sortings) (1)
 - [strings](#strings) (5)
 
@@ -52,6 +52,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 
 ### sortings
 
