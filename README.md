@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 31 | 9 |
+| 32 | 9 |
 
 ---
 
@@ -17,8 +17,8 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [dp](#dp) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (22)
-- [math](#math) (5)
+- [implementation](#implementation) (23)
+- [math](#math) (6)
 - [sortings](#sortings) (2)
 - [strings](#strings) (9)
 
@@ -71,6 +71,7 @@
 | 96A | [Football](https://codeforces.com/contest/96/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/96/A%20-%20Football/solution.cpp) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/contest/110/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/110/A%20-%20Nearly%20Lucky%20Number/solution.cpp) |
 | 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.cpp) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 263A | [Beautiful Matrix](https://codeforces.com/contest/263/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/263/A%20-%20Beautiful%20Matrix/solution.cpp) |
@@ -94,6 +95,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
+| 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
