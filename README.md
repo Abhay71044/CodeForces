@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 37 | 9 |
+| 38 | 9 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [dp](#dp) (2)
 - [greedy](#greedy) (6)
 - [implementation](#implementation) (26)
-- [math](#math) (7)
+- [math](#math) (8)
 - [sortings](#sortings) (2)
 - [strings](#strings) (10)
 
@@ -104,6 +104,7 @@
 | 50A | [Domino piling](https://codeforces.com/contest/50/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/50/A%20-%20Domino%20piling/solution.cpp) |
 | 151A | [Soft Drinking](https://codeforces.com/contest/151/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/151/A%20-%20Soft%20Drinking/solution.cpp) |
 | 200B | [Drinks](https://codeforces.com/contest/200/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/200/B%20-%20Drinks/solution.cpp) |
+| 318A | [Even Odds](https://codeforces.com/contest/318/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/318/A%20-%20Even%20Odds/solution.cpp) |
 | 486A | [Calculating Function](https://codeforces.com/contest/486/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/486/A%20-%20Calculating%20Function/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
