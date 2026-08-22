@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 51 | 12 |
+| 52 | 12 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
 - [implementation](#implementation) (37)
-- [math](#math) (10)
+- [math](#math) (11)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (11)
@@ -145,6 +145,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734B | [Anton and Digits](https://codeforces.com/contest/734/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/734/B%20-%20Anton%20and%20Digits/solution.cpp) |
+| 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 
 ### shortest paths
 
