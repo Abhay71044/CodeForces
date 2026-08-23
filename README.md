@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 55 | 12 |
+| 56 | 12 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (3)
 - [graph matchings](#graph-matchings) (1)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (39)
-- [math](#math) (12)
+- [implementation](#implementation) (40)
+- [math](#math) (13)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (13)
@@ -129,6 +129,7 @@
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.cpp) |
 | 734B | [Anton and Digits](https://codeforces.com/contest/734/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/734/B%20-%20Anton%20and%20Digits/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.cpp) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.cpp) |
 | 1030A | [In Search of an Easy Problem](https://codeforces.com/contest/1030/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1030/A%20-%20In%20Search%20of%20an%20Easy%20Problem/solution.cpp) |
@@ -148,6 +149,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 732A | [Buy a Shovel](https://codeforces.com/contest/732/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/732/A%20-%20Buy%20a%20Shovel/solution.cpp) |
 | 734B | [Anton and Digits](https://codeforces.com/contest/734/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/734/B%20-%20Anton%20and%20Digits/solution.cpp) |
+| 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 996B | [World Cup](https://codeforces.com/contest/996/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/996/B%20-%20World%20Cup/solution.cpp) |
 | 1154A | [Restoring Three Numbers](https://codeforces.com/contest/1154/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1154/A%20-%20Restoring%20Three%20Numbers/solution.cpp) |
 
