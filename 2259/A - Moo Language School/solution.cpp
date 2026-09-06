@@ -22,7 +22,8 @@ int main() {
                 answer++;
             }
         }
-        cout<<answer<<endl;
+        cout<<answer<<endl; 
+        
     }
     return 0;
 }
