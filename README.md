@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 84 | 15 |
+| 86 | 16 |
 
 ---
 
@@ -18,11 +18,12 @@
 - [brute force](#brute-force) (10)
 - [constructive algorithms](#constructive-algorithms) (5)
 - [dp](#dp) (4)
-- [games](#games) (1)
+- [games](#games) (2)
 - [graph matchings](#graph-matchings) (1)
-- [greedy](#greedy) (16)
+- [greedy](#greedy) (17)
 - [implementation](#implementation) (58)
-- [math](#math) (22)
+- [math](#math) (24)
+- [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (5)
 - [strings](#strings) (16)
@@ -96,6 +97,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 276B | [Little Girl and Game](https://codeforces.com/contest/276/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/276/B%20-%20Little%20Girl%20and%20Game/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### graph matchings
 
@@ -122,6 +124,7 @@
 | 996A | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/996/A%20-%20Hit%20the%20Lottery/solution.cpp) |
 | 1353A | [Most Unstable Array](https://codeforces.com/contest/1353/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1353/A%20-%20Most%20Unstable%20Array/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
 ### implementation
@@ -213,6 +216,14 @@
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
 | 1374A | [Required Remainder](https://codeforces.com/contest/1374/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1374/A%20-%20Required%20Remainder/solution.cpp) |
 | 1433A | [Boring Apartments](https://codeforces.com/contest/1433/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1433/A%20-%20Boring%20Apartments/solution.cpp) |
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
+| 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 
 ### shortest paths
 
