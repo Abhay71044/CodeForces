@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 86 | 16 |
+| 87 | 16 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [math](#math) (24)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (16)
 - [two pointers](#two-pointers) (1)
 
@@ -240,6 +240,7 @@
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 507A | [Amr and Music](https://codeforces.com/contest/507/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/507/A%20-%20Amr%20and%20Music/solution.cpp) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.cpp) |
+| 1896A | [Jagged Swaps](https://codeforces.com/contest/1896/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1896/A%20-%20Jagged%20Swaps/solution.cpp) |
 
 ### strings
 
