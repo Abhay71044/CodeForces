@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 100 | 16 |
+| 101 | 17 |
 
 ---
 
@@ -15,7 +15,8 @@
 - [*special](#special) (1)
 - [Uncategorized](#uncategorized) (9)
 - [binary search](#binary-search) (2)
-- [brute force](#brute-force) (11)
+- [bitmasks](#bitmasks) (1)
+- [brute force](#brute-force) (12)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [dp](#dp) (4)
 - [games](#games) (3)
@@ -58,6 +59,12 @@
 | 706B | [Interesting drink](https://codeforces.com/contest/706/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/706/B%20-%20Interesting%20drink/solution.cpp) |
 | 996B | [World Cup](https://codeforces.com/contest/996/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/996/B%20-%20World%20Cup/solution.cpp) |
 
+### bitmasks
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
@@ -71,6 +78,7 @@
 | 734B | [Anton and Digits](https://codeforces.com/contest/734/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/734/B%20-%20Anton%20and%20Digits/solution.cpp) |
 | 1097A | [Gennady and a Card Game](https://codeforces.com/contest/1097/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1097/A%20-%20Gennady%20and%20a%20Card%20Game/solution.cpp) |
 | 1368A | [C+=](https://codeforces.com/contest/1368/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1368/A%20-%20C%2B%3D/solution.cpp) |
+| 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 
