@@ -6,17 +6,17 @@
 
 | Total Problems | Topics |
 |---|---|
-| 104 | 17 |
+| 106 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [Uncategorized](#uncategorized) (9)
+- [Uncategorized](#uncategorized) (10)
 - [binary search](#binary-search) (2)
 - [bitmasks](#bitmasks) (1)
-- [brute force](#brute-force) (14)
+- [brute force](#brute-force) (15)
 - [constructive algorithms](#constructive-algorithms) (7)
 - [dp](#dp) (4)
 - [games](#games) (3)
@@ -51,6 +51,7 @@
 | 2260B | [Monocarp and Projects](https://codeforces.com/contest/2260/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2260/B%20-%20Monocarp%20and%20Projects/solution.cpp) |
 | 2266A | [Good Contest](https://codeforces.com/contest/2266/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2266/A%20-%20Good%20Contest/solution.cpp) |
 | 2266B | [Three Piles](https://codeforces.com/contest/2266/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2266/B%20-%20Three%20Piles/solution.cpp) |
+| 2278B | [Stakes and Shapes](https://codeforces.com/contest/2278/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2278/B%20-%20Stakes%20and%20Shapes/solution.cpp) |
 
 ### binary search
 
@@ -83,6 +84,7 @@
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2272A | [Maximize One MEX](https://codeforces.com/contest/2272/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/Abhay71044/CodeForces/blob/HEAD/2272/A%20-%20Maximize%20One%20MEX/solution.cpp) |
 
 ### constructive algorithms
 
